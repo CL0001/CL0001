@@ -45,7 +45,7 @@ I am a guy who started in 2023. I focus on deep learning and have a hobby in gam
 
 <!-- Git Stats -->
 <details>
-<summary>📊GitHub Stats</summary>
+<summary>📊 GitHub Stats</summary>
 
 ![](https://github-readme-stats.vercel.app/api?username=CL0001&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CL0001&theme=dark&hide_border=false)<br/>
@@ -55,7 +55,7 @@ I am a guy who started in 2023. I focus on deep learning and have a hobby in gam
 
 <!-- Wakatime Stats -->
 <details>
-<summary>⌚Wakatime Stats</summary>
+<summary>⌚ Wakatime Stats</summary>
 <br>
 
 ```txt
